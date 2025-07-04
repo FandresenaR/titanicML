@@ -1,0 +1,13 @@
+# test.csv
+
+PassengerId,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+892,"Kelly, Mr. James",male,34.0,0,0,"330911",7.75,"Q"
+893,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1,0,"363272",7.0,"S"
+894,"Myles, Mr. Thomas Francis",male,62.0,0,0,"240276",9.0,"S"
+895,"Wirz, Mr. Albert",male,27.0,0,0,"315154",8.05,"S"
+896,"Hirvonen, Mrs. Alexander (Helga E. E.)",female,22.0,1,1,"3101298",12.2875,"S"
+897,"Allen, Mr. William Henry",male,35.0,0,0,"373450",8.05,"S"
+898,"Mangan, Miss. Mary",female,21.0,0,0,"A/5 2466",10.5,"S"
+899,"Caldwell, Mr. Albert Francis",male,26.0,1,0,"C.A. 24579",10.5,"S"
+900,"Caldwell, Mrs. Albert Francis (Sylvia Mae)",female,24.0,1,0,"C.A. 24579",10.5,"S"
+901,"Cohen, Mr. George",male,36.0,0,0,"A/5 2466",10.5,"S"
